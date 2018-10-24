@@ -1,0 +1,46 @@
+﻿@page
+@model RazorPage_demo.Pages.Movies.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Moviescs</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Moviescs.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Moviescs.Title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Moviescs.ReleaseDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Moviescs.ReleaseDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Moviescs.Genre)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Moviescs.Genre)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Moviescs.Price)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Moviescs.Price)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Moviescs.ID" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

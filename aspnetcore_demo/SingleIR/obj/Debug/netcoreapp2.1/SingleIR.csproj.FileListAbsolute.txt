@@ -1,0 +1,11 @@
+D:\C#pro\aspnetcore_demo\SingleIR\bin\Debug\netcoreapp2.1\SingleIR.deps.json
+D:\C#pro\aspnetcore_demo\SingleIR\bin\Debug\netcoreapp2.1\SingleIR.runtimeconfig.json
+D:\C#pro\aspnetcore_demo\SingleIR\bin\Debug\netcoreapp2.1\SingleIR.runtimeconfig.dev.json
+D:\C#pro\aspnetcore_demo\SingleIR\bin\Debug\netcoreapp2.1\SingleIR.dll
+D:\C#pro\aspnetcore_demo\SingleIR\bin\Debug\netcoreapp2.1\SingleIR.pdb
+D:\C#pro\aspnetcore_demo\SingleIR\obj\Debug\netcoreapp2.1\SingleIR.csprojAssemblyReference.cache
+D:\C#pro\aspnetcore_demo\SingleIR\obj\Debug\netcoreapp2.1\SingleIR.csproj.CoreCompileInputs.cache
+D:\C#pro\aspnetcore_demo\SingleIR\obj\Debug\netcoreapp2.1\SingleIR.AssemblyInfoInputs.cache
+D:\C#pro\aspnetcore_demo\SingleIR\obj\Debug\netcoreapp2.1\SingleIR.AssemblyInfo.cs
+D:\C#pro\aspnetcore_demo\SingleIR\obj\Debug\netcoreapp2.1\SingleIR.dll
+D:\C#pro\aspnetcore_demo\SingleIR\obj\Debug\netcoreapp2.1\SingleIR.pdb
